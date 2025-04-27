@@ -1,0 +1,31 @@
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.BLL.deps.json
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.BLL.dll
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.BLL.pdb
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.DAL.dll
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.DAL.pdb
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.csproj.AssemblyReference.cache
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.AssemblyInfoInputs.cache
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.AssemblyInfo.cs
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.csproj.CoreCompileInputs.cache
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.csproj.CopyComplete
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.dll
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\refint\CompanyG02.BLL.dll
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.pdb
+E:\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\ref\CompanyG02.BLL.dll
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.BLL.deps.json
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.BLL.dll
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.BLL.pdb
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.DAL.dll
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\bin\Debug\net6.0\CompanyG02.DAL.pdb
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.csproj.AssemblyReference.cache
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.AssemblyInfoInputs.cache
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.AssemblyInfo.cs
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.csproj.CoreCompileInputs.cache
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.dll
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\refint\CompanyG02.BLL.dll
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.pdb
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\ref\CompanyG02.BLL.dll
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG02.BLL.sourcelink.json
+E:\career\Route Diploma\ASP.NET C40\Assignments\7. ASP.NET Core MVC\CompanyG02.PL\CompanyG02.BLL\obj\Debug\net6.0\CompanyG.671D8EBA.Up2Date

@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\CompanyG02.DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\CompanyG02.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\CompanyG02.DAL.csproj",
+        "projectName": "CompanyG02.DAL",
+        "projectPath": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\CompanyG02.DAL.csproj",
+        "packagesPath": "C:\\Users\\Mohamed Hassan\\.nuget\\packages\\",
+        "outputPath": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mohamed Hassan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
