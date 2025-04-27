@@ -1,0 +1,34 @@
+﻿@model MyServiceViewModel
+@inject IUnitOfWok unitOfWork
+@{
+    var departments = new SelectList(await unitOfWork.DepartmentRepository.GetAll(), "Id", "Name");
+}
+<div class="from-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input asp-for="@Model.Name" class="form-control" />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Pricess" class="col-form-label"></label>
+    <input asp-for="@Model.Pricess" class="form-control" />
+    <span asp-validation-for="@Model.Pricess" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Rate" class="col-form-label"></label>
+    <input asp-for="@Model.Rate" class="form-control" />
+    <span asp-validation-for="@Model.Rate" class="text-danger"></span>
+
+</div>
+  <div class="from-group">
+      <label asp-for="@Model.Department" class="col-form-label"></label>
+      <select class="form-control" asp-items="@departments" asp-for="DepartmentId">
+         <option value="@null">
+              ------- Select Department -------
+         </option>
+     </select>
+  @*     <input asp-for="@Model.Department" class="form-control" />
+   *@    <span asp-validation-for="@Model.Department" class="text-danger"></span>
+
+   </div>

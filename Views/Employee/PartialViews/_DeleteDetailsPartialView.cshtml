@@ -1,0 +1,50 @@
+﻿@model EmployeeViewModel
+<input hidden asp-for="ImageName" />
+<div class="from-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Name" class="form-control" />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Age" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Age" class="form-control" />
+    <span asp-validation-for="@Model.Age" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Salary" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Salary" class="form-control" />
+    <span asp-validation-for="@Model.Salary" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Adress" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Adress" class="form-control" />
+    <span asp-validation-for="@Model.Adress" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Email" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Email" class="form-control" />
+    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.PhoneNumber" class="col-form-label"></label>
+    <input readonly asp-for="@Model.PhoneNumber" class="form-control" />
+    <span asp-validation-for="@Model.PhoneNumber" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.HireDate" class="col-form-label"></label>
+    <input readonly asp-for="@Model.HireDate" class="form-control" />
+    <span asp-validation-for="@Model.HireDate" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.IsActive" class="col-form-label"></label>
+    <input readonly asp-for="@Model.IsActive" class="form-control" />
+    <span asp-validation-for="@Model.IsActive" class="text-danger"></span>
+
+</div>

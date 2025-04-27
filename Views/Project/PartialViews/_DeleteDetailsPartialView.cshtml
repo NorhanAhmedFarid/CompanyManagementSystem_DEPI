@@ -1,0 +1,14 @@
+﻿@model ProjectsViewModel
+<div class="from-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Name" class="form-control" />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Budget" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Budget" class="form-control" />
+    <span asp-validation-for="@Model.Budget" class="text-danger"></span>
+
+</div>
+

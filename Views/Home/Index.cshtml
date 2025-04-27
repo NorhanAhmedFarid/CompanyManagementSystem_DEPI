@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Company Management System";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Company Management System</h1>
+    <p class="lead">Manage your employees, departments, projects, and more all in one place.</p>
+
+    <div class="mt-4">
+        <a class="btn btn-primary btn-lg" asp-controller="Employee" asp-action="Index">Manage Employees</a>
+        <a class="btn btn-secondary btn-lg" asp-controller="Department" asp-action="Index">Manage Departments</a>
+        <a class="btn btn-success btn-lg" asp-controller="User" asp-action="Index">Manage Users </a>
+        <a class="btn btn-warning btn-lg" asp-controller="Role" asp-action="Index">Manage Roles </a>
+        <a class="btn btn-dark btn-lg" asp-controller="Project" asp-action="Index">Manage Projects </a>
+        <a class="btn btn-dark btn-lg" asp-controller="MyService" asp-action="Index">Manage Services </a>
+
+
+    </div>
+
+    <footer class="mt-5">
+        <p>© @DateTime.Now.Year  All rights reserved.</p>
+    </footer>
+</div>

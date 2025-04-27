@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative @ViewData["Title"] Form</title>
+
+    <!-- External and Custom Stylesheets -->
+    <link href="~/css/_authstyle.css" rel="stylesheet" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
+
+    <style>
+        /* Background Styles */
+        body {
+            background: url('~/images/background.jpg') no-repeat center center fixed; /* Replace with your image path */
+            background-size: cover;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        /* Background Overlay (optional) for better contrast */
+        .main-w3layouts.wrapper {
+            background: rgba(0, 0, 0, 0.6); /* Black overlay with 60% opacity */
+            padding: 50px;
+            border-radius: 10px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        h1.title-text {
+            color: #fff;
+            text-align: center;
+            font-weight: 700;
+            margin-bottom: 30px;
+        }
+
+        .colorlibcopy-agile p {
+            color: #fff;
+            text-align: center;
+        }
+
+        ul.colorlib-bubbles li {
+            background-color: #00c6ff; /* You can change this to any color or gradient */
+        }
+    </style>
+</head>
+<body>
+    <!-- Main Wrapper -->
+    <div class="main-w3layouts wrapper">
+        <h1 class="title-text">Creative @ViewData["Title"] Form</h1>
+
+        <!-- Render the Form Content from the View -->
+        @RenderBody();
+
+        <!-- Footer / Copyright -->
+        <div class="colorlibcopy-agile">
+            <p>&copy; 2024 Company Managemnt system. Designed by <a href="https://colorlib.com/" target="_blank">DEPI Team</a></p>
+        </div>
+
+        <!-- Decorative Bubbles -->
+        <ul class="colorlib-bubbles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+
+    <!-- jQuery Script -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <!-- Render Validation Scripts if Required -->
+    @await RenderSectionAsync("ValidationScriptSection", required: false)
+</body>
+</html>

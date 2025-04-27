@@ -1,0 +1,20 @@
+﻿@model MyServiceViewModel
+<div class="from-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Name" class="form-control" />
+    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+
+</div>
+<div class="from-group">
+    <label asp-for="@Model.Pricess" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Pricess" class="form-control" />
+    <span asp-validation-for="@Model.Pricess" class="text-danger"></span>
+
+</div>
+
+<div class="from-group">
+    <label asp-for="@Model.Rate" class="col-form-label"></label>
+    <input readonly asp-for="@Model.Rate" class="form-control" />
+    <span asp-validation-for="@Model.Rate" class="text-danger"></span>
+
+</div>
